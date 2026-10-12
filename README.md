@@ -1,7 +1,7 @@
 # SIG-LAB
 SIG-LAB Signalling System 7 (SS7) and SIGTRAN
 
-<img width="770" height="335" alt="image" src="https://github.com/user-attachments/assets/f23c4af1-9f71-467c-81b6-3b119c0f986b" />
+<img width="616" height="268" alt="image" src="https://github.com/user-attachments/assets/9f622c93-9437-42de-85ed-495dbb35c78a" />
 
 Requirements:
 - Windows 10 or 11 required (the .py file in the installation folder also runs on Linux)
